@@ -27,4 +27,6 @@ A simple Tetris game built using Pygame in Python.
      python tetris.py
 
 ![image](https://github.com/user-attachments/assets/638baf96-87ab-4f14-a453-a310e0998ebf)
+![image](https://github.com/user-attachments/assets/6d1b2efb-7145-49e5-b9be-1b2b80c4e97d)
+
 
