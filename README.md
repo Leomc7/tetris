@@ -26,5 +26,5 @@ A simple Tetris game built using Pygame in Python.
    ```bash
      python tetris.py
 
-   License
-This project is licensed under the MIT License. See the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/638baf96-87ab-4f14-a453-a310e0998ebf)
+
