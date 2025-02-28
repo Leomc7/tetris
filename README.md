@@ -16,3 +16,15 @@ A simple Tetris game built using Pygame in Python.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Leomc7/tetris.git
+
+2. Navigate to the project folder:
+    ```bash
+   cd tetris
+   Run the game:
+
+3. Run the game:
+   ```bash
+     python tetris.py
+
+   License
+This project is licensed under the MIT License. See the LICENSE file for details.
